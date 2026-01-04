@@ -36,3 +36,10 @@ Proven track record of bridging the gap between complex engineering and commerci
 ### **Medical Sales Representative** | **Sanofi**
 *Aug 2018 – Sep 2020 | Shenzhen, Guangdong, China*
 * **Product Promotion**: Responsible for the sales and promotion of vaccine products, ensuring value-driven communication with healthcare professionals.
+
+## Project Showcase
+
+### [**Loss Ratio Reduction Model**](https://loss-demo.dannyhsu.org/)
+* **Technology Stack**: React.js / Frontend Logic / Responsive Web Design.
+* **Problem Solved**: Developed this interactive ROI calculator to help insurance companies and fleet operators quantify the risk-reduction benefits of installing Dashcam/MDVR systems.
+* **Business Impact**: Directly supports pre-sales and Business Development efforts by converting abstract AI safety data into clear, actionable financial projections for stakeholders.
