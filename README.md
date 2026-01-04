@@ -49,6 +49,10 @@ Proven track record of bridging the gap between complex engineering and commerci
 * **The Solution**: Bridged the gap between client requirements and R&D to implement a **Custom Webhook Service**. This service triggers real-time data payloads during "Trip Start" and "Trip End" events, verified by onboard face recognition.
 * **Business Impact**: 100% automated the client’s attendance logging system, eliminating manual data entry errors and significantly reducing administrative overhead for fleet operations.
 
+### [**Self-Hosted CRM & Sales Conversion Engine**](https://crm.dannyhsu.org/)
+* **Technology Stack**: Docker / Linux (CLI) / Reverse Proxy / Database Management.
+* **Business Impact**: Established a structured sales pipeline that visualizes the entire "Lead-to-Deal" lifecycle. This technology-driven approach optimized follow-up efficiency and provided the analytical foundation needed to increase sales conversion rates through precise lead nurturing.
+
 ---
 
 ## Education
