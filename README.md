@@ -1,1 +1,3 @@
-# danny
+# Personal Summary
+Results-oriented Technical Solutions & Pre-sales Specialist with 5+ years of experience in the fleet telematics and IoT industry. Technology-driven expert proficient in Linux-based system debugging, network infrastructure (SSL/DNS), and SaaS platform deployment.
+Proven track record of bridging the gap between complex engineering and commercial value by developing technical sales tools—such as React-based ROI models—to drive business growth. UK-educated with extensive experience in navigating international regulatory environments, including DVS 2.0 compliance. Committed to delivering technical excellence, optimizing operational efficiency, and ensuring 100% project compliance in high-growth markets.
