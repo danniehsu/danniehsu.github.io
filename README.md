@@ -36,7 +36,7 @@ Proven track record of bridging the gap between complex engineering and commerci
 
 ---
 
-## Project Showcase
+## Portfolio
 
 ### [**Loss Ratio Reduction Model**](https://loss-demo.dannyhsu.org/)
 * **Technology Stack**: React.js / Frontend Logic / Responsive Web Design.
