@@ -36,6 +36,21 @@ Proven track record of bridging the gap between complex engineering and commerci
 
 ---
 
+## 🛠 Project Experience
+
+### **Digital Attendance & System Integration Project | South Africa**
+
+* **Context**: Addressed a critical pain point for a major South African logistics fleet regarding manual driver attendance.
+* **Technical Implementation**: 
+    * Architected a **real-time data synchronization solution** using **Webhooks** to bridge MTA AI face recognition technology with the client’s internal HR systems.
+    * Optimized data push logic and handled server-side integration, reducing the client’s administrative cost.
+* **Commercial Strategy**:
+    * **Revenue Growth**: **Non-Recurring Engineering fees** for custom development.
+    * **Strategic Retention**: Negotiated and implemented a **White-Label Partnership Agreement**, embedding MTA technology into the client’s brand ecosystem to maximize **switching costs** and customer stickiness.
+* **Impact**: Transformed a standard hardware deal into a high-margin, tech-driven partnership, establishing a scalable blueprint for "Value-Added Service" sales in the region.
+
+---
+  
 ## Portfolio
 
 ### [**Loss Ratio Reduction Model**](https://loss-demo.dannyhsu.org/)
