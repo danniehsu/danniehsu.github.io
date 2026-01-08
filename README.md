@@ -36,7 +36,7 @@ Proven track record of bridging the gap between complex engineering and commerci
 
 ---
 
-## 🛠 Project Experience
+## Project Experience
 
 ### **Digital Attendance & System Integration Project | South Africa**
 
