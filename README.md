@@ -70,12 +70,6 @@ Proven track record of bridging the gap between complex engineering and commerci
 * **Problem Solved**: Developed this interactive ROI calculator to help insurance companies and fleet operators quantify the risk-reduction benefits of installing Dashcam/MDVR systems.
 * **Business Impact**: Directly supports pre-sales and Business Development efforts by converting abstract AI safety data into clear, actionable financial projections for stakeholders.
 
-### **Automated Fleet Attendance & Time-Tracking Integration**
-* **Technologies**: Biometric Face Recognition / Webhooks / API Integration / Workflow Automation.
-* **The Problem**: The client struggled with manual working hour calculations and lack of verified attendance data for their mobile workforce.
-* **The Solution**: Bridged the gap between client requirements and R&D to implement a **Custom Webhook Service**. This service triggers real-time data payloads during "Trip Start" and "Trip End" events, verified by onboard face recognition.
-* **Business Impact**: 100% automated the client’s attendance logging system, eliminating manual data entry errors and significantly reducing administrative overhead for fleet operations.
-
 ### [**Self-Hosted CRM & Sales Conversion Engine**](https://crm.dannyhsu.org/)
 * **Technology Stack**: Docker / Linux (CLI) / Reverse Proxy / Database Management.
 * **Business Impact**: Established a structured sales pipeline that visualizes the entire "Lead-to-Deal" lifecycle. This technology-driven approach optimized follow-up efficiency and provided the analytical foundation needed to increase sales conversion rates through precise lead nurturing.
