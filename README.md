@@ -70,9 +70,11 @@ Proven track record of bridging the gap between complex engineering and commerci
 * **Problem Solved**: Developed this interactive ROI calculator to help insurance companies and fleet operators quantify the risk-reduction benefits of installing Dashcam/MDVR systems.
 * **Business Impact**: Directly supports pre-sales and Business Development efforts by converting abstract AI safety data into clear, actionable financial projections for stakeholders.
 
-### [**Self-Hosted CRM & Sales Conversion Engine**](https://crm.dannyhsu.org/)
+### [**Tesla Charging Manager**](https://tesla.dannyhsu.org/)
 * **Technology Stack**: Docker / Linux (CLI) / Reverse Proxy / Database Management.
 * **Business Impact**: Established a structured sales pipeline that visualizes the entire "Lead-to-Deal" lifecycle. This technology-driven approach optimized follow-up efficiency and provided the analytical foundation needed to increase sales conversion rates through precise lead nurturing.
+
+### [**Self-Hosted CRM & Sales Conversion Engine**](https://crm.dannyhsu.org/)
 
 ---
 
