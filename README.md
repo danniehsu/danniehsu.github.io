@@ -49,6 +49,18 @@ Proven track record of bridging the gap between complex engineering and commerci
     * **Strategic Retention**: Negotiated and implemented a **White-Label Partnership Agreement**, embedding MTA technology into the client’s brand ecosystem to maximize **switching costs** and customer stickiness.
 * **Impact**: Transformed a standard hardware deal into a high-margin, tech-driven partnership, establishing a scalable blueprint for "Value-Added Service" sales in the region.
 
+### **Public Transport Revenue Protection & APC Project | South Africa**
+
+* **Context**: Solved a major financial leakage issue for a fleet operator suffering from fare evasion and driver fraud (private cash collection).
+* **Technical Implementation**: 
+    * **Hardware & Sensor Integration**: P3 Passenger Counting Camera & X3N MDVR
+    * **Platform Configuration**: Designed and deployed a management module, enabling the client to perform **Station/Stop Mapping** and route-based passenger flow analytics directly on the platform.
+    * **API**: Allows the client to consume real-time occupancy data within their own third-party ticketing and dispatch systems.
+* **Commercial Strategy**:
+    * **Commercial Monetization**: Secured **NRE service fees** to validate client commitment and offset R&D costs, turning a technical request into a profitable project.
+    * **Branding Strategy**: Implemented **White-Label clauses** to provide the client with a "proprietary" feel while maintaining their long-term technological dependency on our platform.
+* **Impact**: Currently in the **PoC (Proof of Concept)** phase after successful system acceptance; established a new high-margin revenue stream for public transport safety.
+
 ---
   
 ## Portfolio
